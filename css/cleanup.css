@@ -1,8 +1,8 @@
 /* write your override styles here */
-body #wall #tag-1 {
+body div#wall div#tag-1 {
   display: none;
 }
-body #wall div#tag-2 {
+body div#wall div#tag-2 {
   display: none;
 }
 
